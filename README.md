@@ -113,3 +113,26 @@ Run the dashboard:
 ## Disclaimer
 
 CyberThreat AI is an educational and research project. Its predictions should not be used as the sole basis for security decisions.
+
+---
+
+## Dashboard Screenshots
+
+### 1. Main Dashboard
+![CyberThreat AI Dashboard](screenshots/dashboard.png)
+
+### 2. Detection Overview
+![Detection Overview](screenshots/detection.png)
+
+### 3. SOC Analytics
+![SOC Analytics](screenshots/analytics.png)
+
+### 4. Model Insights
+![Random Forest Feature Importance](screenshots/insights.png)
+
+### 5. Results & Export
+![Prediction Results and CSV Export](screenshots/results.png)
+
+---
+**Developed by Samer Saed Aljohani**
+
