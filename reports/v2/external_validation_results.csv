@@ -1,0 +1,2 @@
+Dataset,Total Records,Accuracy,Precision,Recall,F1,TN,FP,FN,TP
+CSE-CIC-IDS2018,1048575,0.3441174927878311,0.0,0.0,0.0,360833,0,687742,0
